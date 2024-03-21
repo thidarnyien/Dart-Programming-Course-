@@ -1,0 +1,56 @@
+{
+    "gender": "female",
+    "name": {
+      "title": "Ms",
+      "first": "Diane",
+      "last": "Neal"
+    },
+    "location": {
+      "street": {
+        "number": 704,
+        "name": "York Road"
+      },
+      "city": "Sligo",
+      "state": "Galway",
+      "country": "Ireland",
+      "postcode": 25527,
+      "coordinates": {
+        "latitude": "-0.9147",
+        "longitude": "91.3280"
+      },
+      "timezone": {
+        "offset": "+5:45",
+        "description": "Kathmandu"
+      }
+    },
+    "email": "diane.neal@example.com",
+    "login": {
+      "uuid": "4abb1fd5-209f-414c-a95d-ce0cd4e42480",
+      "username": "ticklishrabbit909",
+      "password": "excite",
+      "salt": "aL9esWzJ",
+      "md5": "1679c14f42ea0ae6f03c88412a2bc8df",
+      "sha1": "1a6bbab74d7837d1e636faad73179f2195a3e690",
+      "sha256": "e112841d7fa3e83a3a5e90b1170f20581188b11ceee09521ab8cfd194a64edf4"
+    },
+    "dob": {
+      "date": "1945-11-23T01:05:24.399Z",
+      "age": 78
+    },
+    "registered": {
+      "date": "2018-01-31T08:57:53.182Z",
+      "age": 6
+    },
+    "phone": "031-831-2509",
+    "cell": "081-361-6712",
+    "id": {
+      "name": "PPS",
+      "value": "7707784T"
+    },
+    "picture": {
+      "large": "https://randomuser.me/api/portraits/women/79.jpg",
+      "medium": "https://randomuser.me/api/portraits/med/women/79.jpg",
+      "thumbnail": "https://randomuser.me/api/portraits/thumb/women/79.jpg"
+    },
+    "nat": "IE"
+  }

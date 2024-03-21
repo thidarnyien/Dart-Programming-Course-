@@ -1,0 +1,7 @@
+name: Brighter_Myanmar
+
+environment:
+  sdk: '^3.3.1'
+
+dependencies:
+  http: ^1.2.1
